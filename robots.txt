@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guttercleaningayrshire.co.uk/sitemap.xml
